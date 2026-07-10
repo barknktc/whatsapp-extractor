@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# uv / venv
+.venv/
+
+# Local working data — never commit decrypted chat data or exports
+/workdir/
+/output/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+
+# Local agent tooling and planning notes
+/.claude/
+/skills-lock.json
+/.scratch/

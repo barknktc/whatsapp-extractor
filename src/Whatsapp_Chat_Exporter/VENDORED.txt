@@ -1,0 +1,1 @@
+vendored at git rev cac2a2464d84a04dc6b36f9cbbd32d4276eb4b40 (whatsapp-chat-exporter 0.13.0)
