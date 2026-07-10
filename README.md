@@ -1,6 +1,6 @@
 # WhatsApp Extractor
 
-Browse WhatsApp chats from an iPhone backup, and export you choose, **with emoji reactions, link previews, stickers, replys, the whole deal**, to HTML or JSON.
+Browse WhatsApp chats from an iPhone backup, and export **with emoji reactions, link previews, stickers, replys, the whole deal**, to HTML or JSON.
 
 <p align="center">
   <img src="docs/tui-demo.svg" alt="whatsapp-extractor chat picker: a terminal table of chats with message counts, media sizes and date ranges, three chats selected, and a running total in the footer" width="900">
